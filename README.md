@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Artificial Intelligence, OOP, C++, JavaScript, React JS HTML5, CSS3 (SCSS) Web development trends,**
 
-- 📫 How to reach me **Email:vishalgawade311@gmail.com Linkedin:linkedin.com/in/vishal2k**
+- 📫 How to reach me **Email:vishal.gawade.dev@gmail.com Linkedin:linkedin.com/in/vishal2k**
 
 - ⚡ Fun fact **I have a meme for every coding situation. Yes, including the one where you spend hours on a bug only to find it was a typo.**
 
