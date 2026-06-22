@@ -1,25 +1,140 @@
-![github-header-image](https://github.com/VishalGawade1/VishalGawade1/assets/47043295/afc3ff14-2d0b-4637-bc6a-ef79bd66f55d)
+<div align="center">
 
+<!-- ============ HEADER BANNER ============ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,12,20&height=220&section=header&text=Vishal%20Gawade&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%40%20Amazon%20%E2%9A%A1%20GPU%20Kernels%20%E2%80%A2%20LLM%20Inference%20%E2%80%A2%20Cloud-Native%20Infra&descAlignY=58&descSize=18" alt="header banner" />
 
+<!-- ============ TYPING ANIMATION ============ -->
+<a href="https://github.com/VishalGawade1">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&width=760&lines=Software+Engineer+%40+Amazon;Writing+fused+GPU+kernels+in+Triton+%2F+HIP+%2F+CUDA;Squeezing+throughput+out+of+LLM+inference;Building+Kubernetes+operators+in+Go;Streaming+GenAI+pipelines+on+AWS+%2B+Azure" alt="Typing SVG" />
+</a>
 
-<h1 align="center">Hi 👋, I'm Vishal Gawade</h1>
-<h3 align="center">A passionate Software Engineer</h3>
-<img align ="right" alt ="Coding" width="400" src="https://c.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif">
+<br/>
 
+<!-- ============ PROFILE VIEWS + SOCIAL ============ -->
+<img src="https://komarev.com/ghpvc/?username=VishalGawade1&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="profile views" />
+<a href="https://linkedin.com/in/vishal2k"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:vishal.gawade.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/VishalGawade1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
-- 🌱 I’m currently learning **Advanced Web Technology Cloud Services (AWS, Google Cloud Platform, Azure), Containerization and Orchestration (Docker, Kubernetes), Continuous Integration and Deployment (Jenkins, GitHub Actions)**
+</div>
 
-- 💬 Ask me about **Artificial Intelligence, OOP, C++, JavaScript, React JS HTML5, CSS3 (SCSS) Web development trends,**
+---
 
-- 📫 How to reach me **Email:vishal.gawade.dev@gmail.com Linkedin:linkedin.com/in/vishal2k**
+<div align="center">
 
-- ⚡ Fun fact **I have a meme for every coding situation. Yes, including the one where you spend hours on a bug only to find it was a typo.**
+### GPU performance engineer who lives close to the metal — and ships the systems around it.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/p.h.o.e.n.i.x.2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="p.h.o.e.n.i.x.2" height="30" width="40" /></a>
-<a href="https://discord.gg/zoro2k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="zoro2k" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+> **Software Engineer @ Amazon** working where deep learning meets hardware: fused **GPU kernels**, **LLM inference & serving**, and the **Kubernetes / cloud-native** infrastructure that runs it all in production. I write fast kernels (Triton / CUDA / HIP), squeeze throughput out of LLM inference, and build controllers/operators in Go on AWS + Azure.
+>
+> 🎓 M.S. — Illinois Institute of Technology, Chicago &nbsp;•&nbsp; 📍 Chicago, USA &nbsp;•&nbsp; 🐙 On GitHub since 2019
+
+---
+
+## 🚀 Flagship Projects — at a glance
+
+| Project | What it is | Stack | Highlight |
+|---|---|---|---|
+| **[RMSNorm Triton GPU Kernel](https://github.com/VishalGawade1/High-Performance-RMSNorm-GPU-Kernel-Triton-PyTorch-)** | Custom **fused RMSNorm** GPU kernel in Triton | `Python` `Triton` | Forward **+** backward passes; benchmarked vs PyTorch LayerNorm & JIT RMSNorm |
+| **[fp8-matmul](https://github.com/VishalGawade1/fp8-matmul)** | Solution to the **AMD FP8 GEMM Challenge** (GPU Mode community) | `CUDA` `HIP` | ~100-line HIP kernel • **ranked 5 / 163** • ~136 µs geo-mean latency |
+| **[paged-attention-minimal](https://github.com/VishalGawade1/paged-attention-minimal)** | A **<300-line PagedAttention** KV-cache manager for Llama 3 batch inference | `Python` | Higher throughput & larger batch sizes vs a naive KV cache |
+| **[Des--gpu](https://github.com/VishalGawade1/Des--gpu)** | **DES password hashing** ported to CUDA | `CUDA` | ~1.5 Gh/s on an RTX 3090 |
+| **[LLM-AgentEval](https://github.com/VishalGawade1/LLM-AgentEval)** | Framework to **evaluate & monitor** LLM-based agents | `Python` `Azure AI` | Variant generation + a RAG example agent on the Azure AI stack |
+| **[AI-FlowStream](https://github.com/VishalGawade1/AI-FlowStream)** | Streaming **generative-AI pipeline** on AWS | `Java` `AWS` | Apache Flink Async I/O → Amazon Bedrock → OpenSearch |
+| **[FailureNotifier](https://github.com/VishalGawade1/FailureNotifier)** | K8s controller that watches Pods & **emails on failure** | `Go` `Kubebuilder` | Built on controller-runtime |
+| **[k8s-validating-webhook](https://github.com/VishalGawade1/k8s-validating-webhook)** | Kubernetes **validating admission webhook** | `Go` | Admission control in action |
+| **[operator-pattern-master](https://github.com/VishalGawade1/operator-pattern-master)** | Kubernetes **Operator pattern** scaffold | `Go` `Kubebuilder` | Reusable operator starting point |
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+**🔥 GPU / ML Systems**
+
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Triton](https://img.shields.io/badge/Triton-7AA2F7?style=for-the-badge&logo=openai&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![HIP / ROCm](https://img.shields.io/badge/HIP%20%2F%20ROCm-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+
+**💻 Languages**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**☁️ Cloud & Infra**
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=VishalGawade1&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalGawade1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7" alt="Top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=VishalGawade1&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" alt="GitHub streak" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=VishalGawade1&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies" />
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=VishalGawade1&theme=tokyo-night&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=ffffff&area=true&hide_border=true" alt="Activity graph" />
+
+</div>
+
+---
+
+## 🐍 Watch the Snake Eat My Commits
+
+<!--
+  CONTRIBUTION SNAKE — optional flourish.
+  This image only renders once the Platane/snk GitHub Action is set up in this repo
+  to generate the SVG and push it to the `output` branch. Add a workflow at
+  .github/workflows/snake.yml (Platane/snk) on a schedule before relying on this —
+  otherwise these images will 404. It is NOT automatic.
+-->
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VishalGawade1/VishalGawade1/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VishalGawade1/VishalGawade1/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/VishalGawade1/VishalGawade1/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's build fast systems together ⚡
+
+<a href="https://linkedin.com/in/vishal2k"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:vishal.gawade.dev@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/VishalGawade1"><img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,12,20&height=120&section=footer" alt="footer" />
+
+</div>
