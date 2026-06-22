@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="290" viewBox="0 0 1000 290" fill="none" role="img"><defs>
+      <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0" stop-color="#7c83ff"/><stop offset="1" stop-color="#a371f7"/>
+      </linearGradient>
+      <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0" stop-color="#7c83ff" stop-opacity="0"/>
+        <stop offset="0.5" stop-color="#7c83ff" stop-opacity="0.9"/>
+        <stop offset="1" stop-color="#a371f7" stop-opacity="0"/>
+      </linearGradient>
+      <radialGradient id="orb" cx="0.5" cy="0.5" r="0.5">
+        <stop offset="0" stop-color="#a371f7" stop-opacity="0.30"/>
+        <stop offset="1" stop-color="#a371f7" stop-opacity="0"/>
+      </radialGradient>
+    </defs><rect x="0.5" y="0.5" width="999" height="289" rx="16" fill="#161b22" stroke="#272e3a" stroke-width="1"/><circle cx="880" cy="70" r="220" fill="url(#orb)"/><text x="56" y="78" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="17" fill="#7c83ff" letter-spacing="3">AI TRAINING &amp; EVALUATION</text><text x="54" y="150" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif" font-size="62" font-weight="800" fill="#e6edf3">Vishal Gawade</text><rect x="56" y="172" width="360" height="4" rx="2" fill="url(#glow)"/><text x="56" y="216" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif" font-size="23" fill="#9aa5b1">Defining what &#8220;good&#8221; looks like for large language models.</text><text x="56" y="256" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif" font-size="17" fill="#6e7681">Amazon &#183; AGI Data Services　•　Chicago, USA　•　M.S., Illinois Institute of Technology</text></svg>
