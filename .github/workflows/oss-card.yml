@@ -1,0 +1,52 @@
+name: Refresh Open-Source Card
+
+on:
+  # refresh a few times a day so new/merged PRs appear automatically
+  schedule:
+    - cron: "0 */6 * * *"
+  # manual trigger from the Actions tab
+  workflow_dispatch:
+  # refresh on push to main (e.g. after editing the renderer)
+  push:
+    branches: [main]
+    paths:
+      - "scripts/render_oss_card.py"
+      - ".github/workflows/oss-card.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: oss-card
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch authored pull requests
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh api -X GET "search/issues" \
+            -f q="type:pr author:${{ github.repository_owner }}" \
+            -f per_page=100 > prs.json
+          echo "Fetched $(jq '.items | length' prs.json) PRs"
+
+      - name: Regenerate the Open-Source card
+        run: python3 scripts/render_oss_card.py prs.json
+
+      - name: Commit if the card changed
+        run: |
+          if git diff --quiet -- assets/open-source.svg; then
+            echo "No change to the Open-Source card."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/open-source.svg
+          git commit -m "chore: auto-refresh open-source card"
+          git push
